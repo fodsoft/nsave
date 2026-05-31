@@ -3,10 +3,9 @@
 #!/bin/bash
 
 URLS=(
-  "https://fodsoft.com"
-  "https://fodsoft.com/vdream"
-  "https://fodsoft.itch.io"
-  "https://github.com/neofodere/"
+  "https://fodsoft.com/"
+  "https://fodsoft.com/vdream/"
+  "https://fodsoft.com/clickcontrol/"
 )
 
 capturar_url()
